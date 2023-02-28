@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 # LOCAL
+
 # conflicts
 
 #Testing the conflicts with the merges
